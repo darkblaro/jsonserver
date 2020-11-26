@@ -1,9 +1,10 @@
 {
   "galleries":[
     {
-      "id":1,
+      "auth":"me",
       "galleryname":"somename",
-      "author":"me"
+      "nfiles":"1",
+      "url":"www.some.url"
     }
   ]
 }
