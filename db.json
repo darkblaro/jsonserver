@@ -2,8 +2,8 @@
   "galleries":[
     {
       "id":1,
-      "galleryName":"",
-      "author":""
+      "galleryname":"somename",
+      "author":"me"
     }
   ]
 }
