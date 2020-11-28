@@ -4,6 +4,7 @@
       "galleryname":"Test Gallery",
       "auth":"Roman",
       "nfiles":10,
+      "url":"someUrl",
       "photos":[
         {
           "id":1,
