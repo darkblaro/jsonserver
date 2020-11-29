@@ -1,57 +1,87 @@
 {
-    "galleries":[{
+    "galleries":[
+      {
         "id":1,
         "galleryname":"Test Gallery",
         "auth":"Roman",
-        "nfiles":5,
         "url":"someUrl",
         "photos":[
           {
-            "id":1,
             "imgUrl":"https://i.ibb.co/Jxtsmk9/20200721-124715.jpg"
           },
           {
-            "id":2,
             "imgUrl":"https://i.ibb.co/gDPkDBs/20200721-124733.jpg"
           },
           {
-            "id":3,
             "imgUrl":"https://i.ibb.co/pf86Xft/20200721-124829.jpg"
           },
           {
-            "id":4,
             "imgUrl":"https://i.ibb.co/0fQ2N25/20200721-125054.jpg"
           },
           {
-            "id":5,
             "imgUrl":"https://i.ibb.co/NxfkJwN/20200721-132605.jpg"
+          },
+          {
+            "imgUrl":"https://i.ibb.co/Qp50Cnt/20200706-0932452.jpg"
+          },
+          {
+            "imgUrl":"https://i.ibb.co/jVj5wmw/20180721-104657.jpg"
+          },
+          {
+            "imgUrl":"https://i.ibb.co/hDTMvst/20180721-111426.jpg"
+          },
+          {
+            "imgUrl":"https://i.ibb.co/cw3Ncbx/IMGP0197.jpg"
+          },
+          {
+            "imgUrl":"https://i.ibb.co/D7DdPw6/IMGP0206.jpg"
           }
          ]
     },
+    {
+      "id":2,
+      "galleryname":"Test Gallery",
+      "auth":"Roman",
+      "url":"someUrl",
+      "photos":[
         {
-        "id":2,
-        "galleryname":"Test Gallery 2",
-        "auth":"Roman",
-        "nfiles":4,
-        "url":"someUrl",
-        "photos":[
-          {
-            "id":1,
-            "imgUrl":"https://i.ibb.co/Jxtsmk9/20200721-124715.jpg"
-          },
-          {
-            "id":2,
-            "imgUrl":"https://i.ibb.co/gDPkDBs/20200721-124733.jpg"
-          },
-          {
-            "id":3,
-            "imgUrl":"https://i.ibb.co/pf86Xft/20200721-124829.jpg"
-          },
-          {
-            "id":4,
-            "imgUrl":"https://i.ibb.co/0fQ2N25/20200721-125054.jpg"
-          }
-         ]
-    }
-  ]
+          "imgUrl":"https://i.ibb.co/kJFZ0Y4/IMGP0211.jpg"
+        },
+        {
+          "imgUrl":"https://i.ibb.co/4FXNPGc/IMGP0212.jpg"
+        },
+        {
+          "imgUrl":"https://i.ibb.co/bPPyfF0/IMGP0213.jpg"
+        },
+        {
+          "imgUrl":"https://i.ibb.co/52m3ZqS/IMGP0215.jpg"
+        },
+        {
+          "imgUrl":"https://i.ibb.co/Hz6swqk/IMGP0216.jpg"
+        },
+        {
+          "imgUrl":"https://i.ibb.co/0f68Q11/IMGP0217.jpg"
+        }
+       ]
+  },
+  {
+    "id":3,
+    "galleryname":"Test Gallery",
+    "auth":"Roman",
+    "url":"someUrl",
+    "photos":[
+      {
+        "imgUrl":"https://i.ibb.co/1fXThrP/maserati-ghibli-100752668.jpg"
+      },
+      {
+        "imgUrl":"https://i.ibb.co/C7nn608/mercedes-maybach-s-class-rendering.jpg"
+      },
+      {
+        "imgUrl":"https://i.ibb.co/gykN0SG/2021-lamborghini-huracan-evo-mmp-1-1600293029.jpg"
+      },
+      {
+        "imgUrl":"https://i.ibb.co/ZcZHdZB/koenigsegg-regera-mmp-1-1591115837.jpg"
+      }
+     ]
+}]
   }
