@@ -3,7 +3,7 @@
       {
         "id":1,
         "galleryname":"Test Gallery",
-        "auth":"Roman",
+        "auth":"Mickey Mouse",
         "url":"someUrl",
         "photos":[
           {
@@ -40,7 +40,7 @@
     },
     {
       "id":2,
-      "galleryname":"Test Gallery",
+      "galleryname":"Assiniboine Park",
       "auth":"Roman",
       "url":"someUrl",
       "photos":[
@@ -66,8 +66,8 @@
   },
   {
     "id":3,
-    "galleryname":"Test Gallery",
-    "auth":"Roman",
+    "galleryname":"Cars",
+    "auth":"Brad Pitt",
     "url":"someUrl",
     "photos":[
       {
